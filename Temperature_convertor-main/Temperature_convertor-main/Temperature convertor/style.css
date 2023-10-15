@@ -1,0 +1,28 @@
+*{
+
+    background-color: skyblue;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+}
+.container {
+    text-align: center;
+    margin-top: 50px;
+
+}
+.input-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+.input-field {
+    width: 100px;
+    padding: 5px;
+}
+.result {
+    font-size: 24px;
+    margin-top: 20px;
+}
